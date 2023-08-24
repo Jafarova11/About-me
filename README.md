@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♀️ Hi, I'm Shahana<br>💻 I'm successfully graduated Code Academy Front end Development Bootcamp.<br>🌱 I'm currently learning JavaScript, JQuery<br>📧 How can contact me: shncfrv.2001@gmail.com<br>
+🙋‍♀️ Hi, I'm Shahana<br>💻 I'm successfully graduated Code Academy Front end Development Bootcamp.<br>🌱 I'm currently learning JavaScript, React<br>📧 How can contact me: shncfrv.2001@gmail.com<br>
 
 
 ## 🌐 Socials:
